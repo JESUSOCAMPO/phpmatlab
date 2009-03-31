@@ -1,0 +1,11 @@
+== phpmat
+== MATLAB File Reading/Writing in PHP
+
+== 1. Install
+
+      phpize
+      ./configure --with-mat
+      make
+      sudo make install
+   
+If the unit tests don't pass, please send me an email at <maxhodak@gmail.com>.
